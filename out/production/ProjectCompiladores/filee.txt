@@ -1,0 +1,10 @@
+void main(){
+ 
+		int 'a';            // declara a variável "a"
+	'a'0
+			a = 3 + 2;        // soma 3 com 2
+char c = 'e'; //7x17
+(10/2) 	l=8';
+	//skjdfhkshfkshfkj
+
+}
